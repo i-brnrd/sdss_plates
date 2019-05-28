@@ -1,32 +1,18 @@
 ## Welcome!
 ## SDSS Plates for Education @ IoP Stirling Meeting 
 
+Isla Barnard, University of St Andrews 
 
 Contact address:
-sdss_plates@st-andrews.ac.uk
+**sdss_plates@st-andrews.ac.uk**
 
-(Rita Tojeiro rmftr@st-andrews.ac.uk  -currently at conference in Utah, back in June)
+(Rita Tojeiro **rmftr@st-andrews.ac.uk**  is currently at conference in Utah, back in June)
 
 
 ### Useful sites
+Links are provided below to all sites mentioned in this talk.
+_Please copy across anything you want to keep, this will not remain up for ever!_ 
 
-As we run through this talk, some sites will be mentioned. Links are provided below.
-This site will remain up for a while but please copy across anything you want to keep. 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
