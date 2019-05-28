@@ -11,7 +11,7 @@ Contact address:
 
 ### Useful sites
 Links are provided below to all sites mentioned in this talk.
-_Please copy across anything you want to keep, this will not remain up for ever!_ 
+_Please copy across anything you want to keep, this will stay up for a while but it's just made to make taking notes from our talk a little easier!_ 
 
 
 
