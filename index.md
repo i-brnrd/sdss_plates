@@ -14,6 +14,12 @@ Links are provided below to all sites mentioned in this talk.
 _Please copy across anything you want to keep, this will not remain up for ever!_ 
 
 
+
+http://skyserver.sdss.org/dr15/en/home.aspx
+
+http://skyserver.sdss.org/dr15/en/tools/chart/navi.aspx)
+
+
 [Link](url) and ![Image](src)
 ```
 
