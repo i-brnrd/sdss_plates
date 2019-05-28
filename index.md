@@ -19,6 +19,11 @@ http://skyserver.sdss.org/dr15/en/home.aspx
 
 http://skyserver.sdss.org/dr15/en/tools/chart/navi.aspx)
 
+http://legacysurvey.org/viewer#NGC%205926
+
+http://legacysurvey.org/viewer-dev?plate=7133&spectra&sdss-plates
+
+
 
 [Link](url) and ![Image](src)
 ```
