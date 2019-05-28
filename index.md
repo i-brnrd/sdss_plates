@@ -2,10 +2,16 @@
 ## SDSS Plates for Education @ IoP Stirling Meeting 
 
 
-Contact 
-### Markdown
+Contact address:
+sdss_plates@st-andrews.ac.uk
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(Rita Tojeiro rmftr@st-andrews.ac.uk  -currently at conference in Utah, back in June)
+
+
+### Useful sites
+
+As we run through this talk, some sites will be mentioned. Links are provided below.
+This site will remain up for a while but please copy across anything you want to keep. 
 
 ```markdown
 Syntax highlighted code block
