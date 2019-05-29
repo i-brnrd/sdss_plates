@@ -23,5 +23,5 @@ _Please copy across anything you want to keep, this will stay up for a while but
 
 [http://legacysurvey.org/viewer-dev?plate=7133&spectra&sdss-plates](http://legacysurvey.org/viewer-dev?plate=7133&spectra&sdss-plates)
 
-[http://voyages.sdss.org](http://voyages.sdss.org)
+http://voyages.sdss.org
 
